@@ -1,0 +1,74 @@
+*
+{
+    margin: 0;
+}
+footer
+{
+    width: 1280 px;
+    height: 509px;
+    background-color: #445162;
+}
+h2
+{
+    font-family: "ArialMT", "MyriadPro-Regular", "AdobeInvisFont";
+    font-size: 30pt;
+    color: rgba(255, 255, 255, 255);
+    text-align: center;
+    padding-top: 53px;
+}
+.foot
+{
+    display: flex;
+    flex-direction: row;
+}
+form 
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 249px;
+}
+.form-input 
+{
+    font-family: "ArialMT", "MyriadPro-Regular", "AdobeInvisFont";
+    text-align: left;
+    height: 40px; 
+    width: 500px;
+    border-width: 0;
+    background-color:white;
+    border-radius: 11px;
+    padding-left:  10px;
+    margin-bottom: 21px; 
+    font-size: 16pt;
+    color: rgba(68, 81, 98, 255);
+}
+.form-input-mes
+{
+   font-family: "ArialMT", "MyriadPro-Regular", "AdobeInvisFont";
+    height: 170px; 
+    width: 500px;
+    border-width: 0;
+    background-color:white;
+    border-radius: 11px;
+    resize: none;
+   
+    font-size: 16pt;
+    color: rgba(68, 81, 98, 255);
+}
+button
+{
+    font-family: "ArialMT", "MyriadPro-Regular", "AdobeInvisFont";
+    font-size: 16pt;
+    color: rgba(68, 81, 98, 255);
+    text-align: center;
+    border-radius: 11px;
+}
+li
+{
+    font-family: "ArialMT", "MyriadPro-Regular", "AdobeInvisFont";
+    font-size: 16pt;
+    color: rgba(255, 255, 255, 255);
+    text-align: left;
+    list-style-type: none;
+    margin-bottom: 29px;
+    margin-left: 79px;
+}
