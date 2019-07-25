@@ -1,1 +1,24 @@
-css
+.container1{
+    background-color: #445162;
+}
+ .container1 ul{
+    list-style: none;
+}  
+  .container1 ul li:before {
+    content: '✓';
+  }
+
+  .container1 .imgese{
+    width: 70%;
+    height: 70%;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+.container2 .imgese{
+    width: 70%;
+    height: 70%;
+    background-color: #445161;
+    margin: auto;
+    margin-top: 20px;
+}
